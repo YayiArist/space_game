@@ -1,0 +1,11 @@
+# Archivos y directorios generados por el sistema o por Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Carpeta de entorno virtual
+venv/
+
+# Carpeta de configuración de VSCode
+.vscode/
